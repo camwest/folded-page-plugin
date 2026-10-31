@@ -1,0 +1,22 @@
+{
+  "name": "folded-page",
+  "displayName": "Folded Page",
+  "version": "0.3.3",
+  "description": "Journal with your assistant. Keep your words and agreed reflections, and shape a private Story of you over time.",
+  "author": {
+    "name": "CAMERON AGIUS-WESTLAND"
+  },
+  "homepage": "https://foldedpage.app",
+  "repository": "https://github.com/camwest/folded-page-plugin",
+  "documentationUrl": "https://github.com/camwest/folded-page-plugin#readme",
+  "supportUrl": "https://foldedpage.app/support",
+  "privacyPolicyUrl": "https://foldedpage.app/privacy",
+  "termsOfServiceUrl": "https://foldedpage.app/terms",
+  "icon": "./assets/folded-page-icon-v3-512.png",
+  "license": "UNLICENSED",
+  "keywords": [
+    "journal",
+    "personal",
+    "reflection"
+  ]
+}

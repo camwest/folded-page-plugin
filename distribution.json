@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "version": "0.3.3",
+  "sourceCommit": "2590b804e82cf206eeb640050f41420dead0f561",
+  "files": {
+    ".claude-plugin/plugin.json": "c607daea8376c49447378e4245da8a7b11532a24e16110263e651522cc43a8db",
+    ".mcp.json": "b5e64a09ba18d0cdf0d5ed9287927cf068323f40dd6196f0d484963f57591624",
+    "assets/folded-page-icon-v3-512.png": "154e1f6906999b496df296055135e39a5b20c7f4758d5133e781f7b032570e67",
+    "assets/folded-page-icon-v3-64.png": "1658d68afc43a4ddb18c25e8a996af1c44278a0abfdf2d35be4467b28b726a05",
+    "LICENSE": "41bc67be5d8cdb2ceee34049d403329e08ed4019f3558bd25900a2f82dc85e81",
+    "README.md": "3332fb4e7670a5d521b116e77a2055856d45ffd030fcb33270386ebccbf25aa0",
+    "skills/folded-page/SKILL.md": "7a9b4c632251db3be3a153b2bbf60acf56fd6d2f54e265fc857fac97a18afdef"
+  }
+}
